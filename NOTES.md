@@ -11,4 +11,4 @@ Examples of appropriate use:
 
 Do not repeat information already included in `submission_template.md`.
 
-Remove the content of this file and write your notes.
+Remove the contents of this file and write your notes.
